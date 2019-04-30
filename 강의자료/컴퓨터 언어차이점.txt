@@ -1,0 +1,21 @@
+컴파일형언어
+c c++ java
+
+[a.c] -compile- [a.obj] -link- [a.exe]
+
+a.exe 수행가능
+
+빌드: cpmile, link
+
+
+
+
+
+
+
+
+
+
+스크립트형언어 pytom 
+
+a.py -바로수행 - 결과

@@ -1,0 +1,10 @@
+1234567812345678
+a	b	c
+aa	b	c
+aaa	b	c
+aaaa	b	c
+가	b	c
+가나	b	c
+가나다	b	c
+가나다라	b
+가나다라마바사	c
