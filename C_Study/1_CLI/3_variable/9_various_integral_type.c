@@ -22,7 +22,9 @@ void main(){
 	    long long_max=2147483647;	
 	    unsigned long u_long_max=4294967295;	
 	    long long l_long_max=9223372036854775807;	
-	    unsigned long long u_l_long_max=18446744073709551615;	
+	    unsigned long long u_l_long_max=18446744073709551615;
+	    float f_test=1.12345678901234567890;	
+        double d_test=1.12345678901234567890;
 
 		printf("int 최대값: %d\n", int_max);
 		// visual studio 2019 컴파일러에서 int를 4byte로 처리하기 때문에
@@ -40,5 +42,7 @@ void main(){
 		printf("u_long 최대값: %u\n",u_long_max);
 		printf("l_long 최대값: %lld\n",l_long_max);
 		printf("u_l_long 최대값: %llu\n",u_l_long_max);
+		printf("float 최대값: %.25f\n",f_test);
+		printf("double 최대값: %.25lf\n",d_test);
 
 }
