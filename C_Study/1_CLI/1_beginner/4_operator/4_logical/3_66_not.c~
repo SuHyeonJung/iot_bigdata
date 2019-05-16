@@ -1,0 +1,25 @@
+#include <stdio.h>
+
+/*³í¸® ORÁø¸®Ç¥
+ * AÁ¶°Ç	BÁ¶°Ç	°á°ú
+ * °ÅÁþ		°ÅÁþ	°ÅÁþ
+ * Âü		°ÅÁþ	Âü
+ * °ÅÁþ		Âü		Âü
+ * Âü		Âü		Âü
+ */
+
+void main(){
+	int num1=1;
+	int num2=0;
+	int num3=100;
+	int result=0;
+
+	result = (!num1);
+	printf("!num1 	=> °á°ú: %d\n", result);
+	
+	result = (!num2);
+	printf("!num2 	=> °á°ú: %d\n", result);
+	
+	result = (!num3);
+	printf("!num3 	=> °á°ú: %d\n", result);
+}
