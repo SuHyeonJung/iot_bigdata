@@ -1,1 +1,1 @@
-del /s *~*.obj *.exe
+del /s *~ *.obj *.exe
