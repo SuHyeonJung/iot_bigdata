@@ -3,7 +3,10 @@
 
 void main(){
 	char text[] ="Good time";
-
-	printf("%s\n", text);
+	int i=0;
+	while(text[i] != 0){ 
+		printf("%c", text[i]);
+		i++;
+	}
 }
 
