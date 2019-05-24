@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\응용연습문제\2_Challenge_programing2\1_332_q5_example.c">
+    <ClCompile Include="..\..\2_intermediate\3_Array\3_multi_dimension\6_348_q3debug.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
