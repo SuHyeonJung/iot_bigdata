@@ -1,22 +1,15 @@
 #include <stdio.h>
 
 void main(){
-	int a =2;
-	if(a ==2){
-	printf("%d ", a);
-	a = 3;
-	printf("%d ", a);
-	a = 5;
-	printf("%d ", a);
-	while(a < 30 ){
-		
-		while(a % 2 !=0 && a % 3 != 0 && a % 5 != 0){
-			printf("%d ", a);
-			a++;
-			}
+	int arr={1,2,3,4,5};
+	int *ptr = arr;
+	*ptr = *ptr+2;
+	ptr[1] =ptr[1]+2;
+	ptr[2] =ptr[2]+2;
+	ptr[3] =ptr[3]+2;
+	ptr[4] =ptr[4]+2;
+
+	printf("%d %d %d %d %d\n", *ptr, ptr[1], ptr[2], ptr[3], ptr[4]);
 		
 		
-		a++;	
-		}
-	}
 }

@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\2_intermediate\3_Array\2_string\6_t_Korean_String2.c" />
+    <ClCompile Include="..\..\응용연습문제\2_Challenge_programing2\1_332_q5_example.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
