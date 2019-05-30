@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\2_intermediate\3_Array\3_multi_dimension\6_348_q3debug.c" />
+    <ClCompile Include="..\..\2_intermediate\5_header\main.c" />
+    <ClCompile Include="..\..\2_intermediate\5_header\my_head.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\2_intermediate\5_header\my_head.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
