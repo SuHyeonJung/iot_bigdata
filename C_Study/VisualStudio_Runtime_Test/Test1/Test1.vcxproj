@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\2_intermediate\5_header\main.c" />
-    <ClCompile Include="..\..\2_intermediate\5_header\my_head.c" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\2_intermediate\5_header\my_head.h" />
+    <ClCompile Include="..\..\3_internal_function\2_string\1_435t.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
